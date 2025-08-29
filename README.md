@@ -100,7 +100,7 @@ Cuối sprint → merge develop
 
 📷 Demo Screenshot
 
-![Image WorkFlow](https://drive.google.com/file/d/1c4YV2vX0_bKkJNc-8KyOO9BG1z2iuUsm/view?usp=sharing)
+![Image WorkFlow](Git-Work.png)
 
 👨‍💻 Team Rules
 ❌ Không commit trực tiếp vào develop

@@ -101,6 +101,7 @@ Cuối sprint → merge develop
 📷 Demo Screenshot
 
 ![Image WorkFlow](Git-Work.png)
+<img width="1919" height="962" alt="Git-Work" src="https://github.com/user-attachments/assets/c15f4c28-0fb5-480d-9822-040ed3253c8d" />
 
 👨‍💻 Team Rules
 ❌ Không commit trực tiếp vào develop
